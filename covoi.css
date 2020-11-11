@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  
+  }
+ 
+  .b1{
+    margin-top: 35px;
+  }
+  .caption{
+    position: absolute;
+    top:50%;
+left:20%;
+background: rgba(255,255,255,0.5); 
+
+  }
+
+  .navbar-brand{
+    color: #0984e3 !important; 
+    font-weight: bold;
+  }
+  .navbar-nav .nav-item .nav-link{
+    font-weight: 600;
+  }
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #0984e3!important; 
+    border-bottom: 1px solid  #0984e3;
+  }
+  .caption1{
+    position: absolute;
+    bottom: 500px;
+    left: 600px;
+color:#0984e3;
+    font-family: system-ui;
+    font-size: 1.8em;
+    text-shadow: 1px 1px 2px rgb(252, 247, 247), 0 0 1em white, 0 0 0.2em white;
+    top:250px;
+    left:200px;
+    right:200px;
+  }
+
+  .date{
+    margin-top: 3px;
+  }
+
+  .icone{
+    display: flex;
+    margin-left: 40px;
+  }
+  @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body{
+    background: #f2f2f2;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.social-box .box{
+    background: #FFF;
+    border-radius: 10px; 
+    padding: 40px 10px;
+    margin: 20px 0px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.social-box .box:hover{
+   box-shadow: 0 0 6px #4183D7;
+}
+
+.social-box .box .box-text{
+    margin:20px 0px;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.social-box .box .box-btn a{
+    text-decoration: none;
+    color: #4183D7;
+    font-size: 16px;
+}
+
+.fa{
+     color:#4183D7;
+}
+
+
+.iconnes{
+ 
+  top: 40px;
+}
+.container3{
+  height: 100px;
+  background-color:#ff7675;
+  
+  width: 100%;
+}
+h3{    font-size: 30px;
+  color: #ffffff;
+  
+  text-align: center;
+  
+  
+}
+#logo{
+  width:50%;
+  height:50%;
+}
+.all{
+  text-align:center;
+}
+.customer{
+  width: 20%;
+  height: 20%;
+  clip-path: circle(60% at 60% 50%);
+}
+.parag{
+  text-align: justify;
+  
+}
+.container6{
+ /* background-color:burlywood; */
+ background-color:  #dfe6e9;
+
+}
+  
+  
+
+.bc{
+  background-color:red ;
+}
+.input,.options
+{
+  outline:none;
+  border:none;
+  width:100%;
+  padding:1rem;
+  font-weight:blod;
+  color:gray;
+  letter-spacing:2px;
+  font-family: "Open Sans",sans-serif;
+
+}
+
+.input-label{
+  display:block;
+  font-size:1.3rem;
+  text-transform:uppercase;
+  color:black;
+  font-weight: blod;
+  margin-bottom: 1rem;
+}
+.content-header{
+  font-family: 'Oleo Script', cursive;
+  color:#fcc500;
+  font-size: 45px;
+}
+
+.section-content{
+  text-align: center; 
+
+}
+
+.booking{
+  background-color:gray;
+
+}
+.input-group{
+  margin-bottom: 1.5rem;
+}
+.im{
+  background-color: #dfe6e9;
+}
+
+
+.card-img:hover {        -webkit-transform: scale(1.3);        transform: scale(1.3);    }
+
+h2,h1{
+  font-family: 'Karla', sans-serif;
+  font-style: italic;
+}
